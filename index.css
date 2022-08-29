@@ -1,0 +1,674 @@
+/* this is for the whole body*/
+*{
+    list-style: none;
+}
+/* whole body ends here */
+
+
+
+/* style for index section starts here */
+
+
+/* the navbar styling starts from here*/
+.logo-img-top{
+    display:flex;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+.logo-img{
+    width: 300px ;
+    height: auto; 
+}
+
+.but-n-1{
+    background-color: white ;
+    color: black;
+    border-radius: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 10px;
+}
+
+.but-n-2{
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 10px;
+}
+
+.nav-link.nav-2{
+    color: white;
+    font-weight: bold;
+}
+
+/* the navbar styling ends here */
+
+
+
+/* this is for about us*/
+.div-au{
+    padding: 50px;
+}
+
+.au-h{
+    text-align: center;
+}
+
+.au-t{
+    text-align: center;
+}
+/* about us  section ends here */
+
+
+
+
+
+
+/* this is for the who's who section */
+.ww-h{
+    color: blue;
+    font-weight: 700;
+}
+/* who's who section ends here */
+
+
+
+
+
+
+/* this is for the owl crousel section */
+.owl-carousel.owl-theme{
+    padding: 50px;
+}
+
+.container{
+    padding: 50px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+}
+
+.container.wwb{
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 0;
+}
+
+.owl-carousel.owl-theme{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+/* owl crousel ends here */
+
+
+
+
+
+
+
+/* this is the strip where comics animation merchendise and games are avalible */
+
+.cs{
+    color: blue;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.card-img-top.s{
+    width: 90px;
+    height: auto;
+    margin-top: 50px;
+}
+
+.card.d-c{
+    background-color: black;
+    align-items: center;
+} 
+
+.card.f-a{
+    background-color: gray;
+    align-items: center;
+}
+
+.card.games{
+    background-color: rgb(201, 199, 199);
+    align-items: center;
+}
+
+.card.merch{
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+}
+
+.card-body.s{
+    padding: 50px;
+    margin-top: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.card-title.s{
+    color: white;
+}
+
+.card-text.s{
+    color: white;
+}
+/* strip section ends here */
+
+
+
+
+
+
+
+/* this is the comic section which is comming soon crousel */
+
+
+.container.cs-owl-c{
+    padding-bottom: 0;
+}
+
+.container.com-con{
+    padding-top: 10px;
+    margin-bottom: 50px;
+}
+.com-con{
+    text-align: center;
+}
+
+.com-con1{
+    text-align: center;
+    
+    color: blue;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.com-con2{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn.btn-outline-light.btn-lg.b-b{
+    align-items: left;
+}
+
+/* comics section comming soon ends here*/
+
+
+
+
+/* businuess group start from here */
+
+
+.card.b-card{
+    background-color: black;
+    padding-left: 6vw;
+    padding-right: 2vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+}
+
+.card-body{
+    padding-bottom: 0px;
+}
+
+
+.card-title.b1{
+    color: white;
+    text-align: left;
+    font-size: 2vw;
+}
+
+.card-title.b2{
+    color: white;
+    text-align: left;
+    font-size: 2vw;
+    margin-bottom: 2vw;
+}
+
+.card-text.b{
+    color: white;
+    text-align: left;
+    font-size: 1vw;
+    padding-right: 12vw;
+}
+
+.text-left{
+    align-content: center;
+    padding-left: 0vw;
+}
+
+.btn.btn-outline-light.c-f-b{
+    font-size: 1vw;
+    
+}
+
+/* business ends from here */
+
+
+
+
+
+
+/* this the the css for the text under the businuess card*/
+
+.container.tucfb{
+    text-align: center;
+}
+
+.h3.tucfb{
+    font-weight: bold;
+}
+
+/* text under businuess card ends here*/
+
+
+
+
+
+
+/* this is the section for the footer */
+
+.foot-img{
+    height: auto;
+    width: 400px;
+    padding-right: 15px;
+    padding-left: 5px;
+    overflow-wrap: hidden;
+}
+
+
+.foot-links-group{
+    margin-top: 40px;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: auto;
+}
+
+.page-footer.font-small.blue.pt-4{
+    background-color: black;
+    object-fit: cover;
+}
+
+.col-md-6.mt-md-0.mt-3.foot{
+    padding-top: 0px;
+    padding-bottom:0px;
+}
+
+.col-md-2.mb-md-0.mb-2.foot{
+    padding-top: 20px;
+}
+
+.text-uppercase{
+    color: white;
+}
+
+.card-body.f{
+    
+    padding: 10px;
+}
+
+.foot-t{
+    color: white ;
+    text-align: center;
+    margin: 10px;
+}
+
+.card-text{
+    text-align: center;
+    color: white;
+}
+
+.container.card-group.foot-last{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-top: 0px;
+}
+
+.card-text.foot{
+    padding: 5px;
+}
+/* footer section ends here */
+
+
+
+/* style for index section ends here */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* css for about section starts from here */
+
+.carousel-item.active.about{
+    width: 100% ;
+    height: auto;
+}
+
+.container.about.waw{
+    margin-top: 10px;
+    align-items: center;
+}
+
+.waw{
+    font-size: 20px;
+}
+
+
+.display-3{
+    font-weight:500;
+    text-align: center;
+}
+
+.para-b-i{
+    text-align: center;
+}
+
+.bi-b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-of-bi{
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    
+}
+
+.btn-of-bi:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    transition: ease 0.3s;
+}
+
+.para-c-i{
+   text-align: center;
+   margin-bottom: 50px;
+}
+
+.para-m-r{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/* CSS FOR ABOUT SECTION ENDS HERE */
+
+
+
+
+
+
+
+
+
+
+
+
+/* CSS FOR COMICS SECTION STARTS FROM HERE */
+
+.container.gal{
+    padding-top: 10px;
+}
+.up-comics{
+    width: 100%;
+    height: 30vh;
+    background-color: black;
+    text-align: center;
+    padding-top: 6vh;
+}
+
+
+.display-1.up-comics{
+    color: white;
+    font-weight: bold;
+}
+
+
+.t-u-comics{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.gal-buttons{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 15px;
+    padding: 9px;
+    font-size: 20px;
+}
+
+.gal-buttons:hover{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    transition: ease 0.3sec;
+}
+/* CSS FOR COMICS SECTION ENDS HERE */
+
+
+
+
+
+
+
+
+
+
+
+
+/* CSS FOR CHARACTER SECTION STARTS FROM HERE*/
+
+.display-4.cha{
+    text-align: center;
+    font-weight:500;
+    color: white;
+}
+
+.cha-1{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(64, 64, 203);
+    margin-bottom: 30px;
+}
+
+.cha-2{
+    margin-bottom: 0px;
+}
+
+.character-h{
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+.cha-h-text{
+    text-align: center;
+}
+
+
+.t-u-chr-main{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.t-u-chr-text1{
+    font-weight: bold;
+    text-align: center;
+}
+
+.t-u-chr-text2{
+    text-align: center;
+    color: blue;
+}
+
+.t-u-chr-text3{
+    text-align: center;
+    color: blue;
+}
+/* CSS FOR CHARACERS SECTION ENDS HERE*/
+
+
+
+
+
+
+
+
+
+
+
+/* CSS FOR THE FEST SECTION STARTS FROM HERE*/
+.fest-h-1{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.f.display-1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 18vw;
+}
+
+.fest-h-3{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.s-t-s-t1{
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.s-t-s-t2{
+    text-align: left;
+}
+
+.w-w-a-t-h{
+    text-align: center;
+    font-weight: bold;
+}
+
+.w-w-a-t{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.form-fest-h1{
+    text-align: center;
+}
+
+.form-fest-h2{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.container.form-fest-main{
+    padding-top: 50px;
+}
+
+.main-form{
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.form-img{
+    width: 300px ;
+    height: auto; 
+}
+
+.from-img-top{
+    text-align: center;
+}
+
+
+.m-f-s{
+    width: 70%;
+    padding: 25px;
+    margin: 20px auto 25px;
+    border: 2px solid black;
+    overflow: hidden;
+}
+
+.cont-for-input{
+    position: relative;
+    width: 90%;
+    margin: 20px auto;
+}
+
+.name-f{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+
+.name{
+    width: 100%;
+    padding: 8px;
+}
+
+.cont-for-input-btn{
+    display: flex;
+    justify-content: center;
+}
+
+.name.n-btn{
+    background-color: rgb(57, 52, 52);
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.name.n-btn:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    transition: ease 0.3sec;
+}
+
+.name.em{
+    width: 100%;
+}
+
+.name.num{
+    width: 100%;
+}
+
+.name.msg{
+    width: 100%;
+}
+/* CSS FOR THE FEST SECTION ENDS HERE */
